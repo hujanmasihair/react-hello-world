@@ -1,0 +1,70 @@
+body{
+    background-color: rgb(190, 188, 188);
+    font-family: Acme;
+}
+
+#faruq-style .title {
+padding: 10px;
+font: 26px;
+color: #FFF;
+text-align: center;
+background: none repeat scroll 0% 0% #F89406;
+text-transform: uppercase;
+border-radius: 2px 2px 0px 0px;
+border-bottom: 4px solid #E87E04;
+text-shadow: 3px 3px #E87E04;}
+
+
+#faruq-style {
+width: 300px;
+height: auto;
+background-color: #F89406;
+padding-bottom:10px;
+margin: 85px auto 85px auto;
+box-shadow: 5px 5px #E87E04;}
+
+
+#faruq-style p {
+font-size: 14px;
+color:#fff;
+line-height: 20px;
+padding: 10px 20px 0 20px;
+margin: 0;
+text-shadow: 3px 3px #E87E04;}
+
+#faruq-style .faruq-form {
+padding: 0px 20px 10px;}
+
+#faruq-style .faruq-form input {
+color: #777;
+padding: 10px;
+margin-top: 10px;
+font-size: 14px;
+width: 92%;
+border:0;
+border-radius: 2px;
+box-shadow: 4px 4px #E87E04;}
+
+#faruq-style .faruq-form input:focus {outline: none;}
+
+#faruq-style .faruq-form .submitbutton {
+background: #D35400;
+color: #fff!important;
+border:none;
+outline: none;
+width: 100%;
+cursor:pointer;
+border-radius: 2px;
+font-family: Acme;}
+
+#faruq-style .faruq-form .submitbutton:active {
+padding-top: 11px;
+padding-bottom: 9px;}
+
+#faruq-style .faruq-form .submitbutton:hover{
+background: rgba(232, 126, 4, 1);}
+
+#faruq-style {
+font-family: Acme;
+font-size:20px;
+}

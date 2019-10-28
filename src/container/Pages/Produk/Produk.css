@@ -1,0 +1,114 @@
+.header{
+    margin-top: 10px;
+    margin-left: 10px;
+    background: #fa6197;
+    display :flex;
+    width: 204px;
+    justify-content: space-between;
+    box-sizing: border-box;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.produknya{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.logo{ 
+    display: inline-block;
+    font-family: impact;
+    font-weight: bold;
+    width: 10%;
+    display: block;
+    height: 12%;
+    align-self: center;
+    margin-left: 10px;
+}
+
+
+.troli{
+    height: 30px;
+    padding : 3px;
+     
+}
+
+.kartu{
+    border : 2px solid red;
+    width: 200px;
+    margin-left: 10px;
+    background-color: gainsboro;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.img-prod{
+    width: 50%;
+    margin-left: 51px;
+    margin-top: 10px;
+    
+}
+
+.namaproduk{
+    text-align: center;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.harga{
+    text-align: center;
+    font-size: 12px;
+    color: rgb(199, 96, 0);
+}
+
+.counter{
+    float: center;
+    display: block;
+    margin-left: 20px;
+}
+.minus{
+    background-color: #4CAF50; /* Green */
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 5px;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+
+.plus{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 10px 5px;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+.boxvalue{
+    border: 2px solid #4CAF50;
+    height: 30px;
+    width: 80px;
+    text-align: center;
+}
+
+.troli-angka{
+    position: absolute;
+    margin-left : 170px;
+    margin-top: 12px;
+    background:white;
+    padding: 3px;
+    border-radius: 10px;
+    
+}

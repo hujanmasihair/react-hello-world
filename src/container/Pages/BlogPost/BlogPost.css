@@ -1,0 +1,74 @@
+.frame{
+    border: 1px solid rgb(48, 48, 48);
+    justify-content: space-around;
+    display: flexbox;
+    margin: 10px;
+    padding: 10px;
+    margin-left: 100px;
+    background: rgb(255, 255, 255);
+    /* box-shadow: 0 0 10px aqua;
+    scrollbar-shadow-color: aqua; */
+    width: 300px;
+}
+.title{
+    font-weight: bold;
+    font-size: 30px;
+    margin-left: 30px;
+    color: rgb(19, 40, 63);
+    font-family: arial;
+    cursor: pointer;
+}
+
+.frame p.title:hover{
+    cursor: pointer;
+}
+
+.img-thumb{
+    width: 50%;
+    height: auto;
+    /* display : inline; */
+}
+
+.informasi{
+    display: block;
+}
+.judul{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 10px;
+    display: inline;
+    cursor: pointer;
+}
+
+.deskripsi{
+    font-family: arial;
+    margin-left: 10px;
+    display: block;
+}
+
+.btn-remove{
+    background-color: rgb(97, 0, 17); /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-flex;
+    font-size: 16px;
+    margin: 10px 5px;
+    cursor: pointer;
+    border-radius: 2px;
+}
+.btn-edit{
+    background-color: rgb(84, 95, 253); /* Green */
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 10px 5px;
+    cursor: pointer;
+    border-radius: 2px;
+    display: inline;
+}

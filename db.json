@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": 1570162881315,
+      "title": "popo",
+      "body": "hho"
+    },
+    {
+      "id": 1570418319343,
+      "title": "hamtaross",
+      "body": "body"
+    },
+    {
+      "id": 1571387999679,
+      "title": "halo",
+      "body": "haloo"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
